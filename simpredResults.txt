@@ -1,0 +1,42 @@
+greater than -2 percent daily loss chance:	0.0230361380726
+greater than -1 percent daily loss chance:	0.0319589174755
+greater than 0 percent daily loss chance:	0.3477691112
+greater than 1 percent daily loss chance:	0.801208613063
+greater than 2 percent daily loss chance:	0.938801644879
+
+$$$---$$$
+
+                precision    recall  f1-score   support
+
+%change<=-0.02       1.00      1.00      1.00        19
+
+   avg / total       1.00      1.00      1.00        19
+
+                precision    recall  f1-score   support
+
+%change<=-0.01       1.00      1.00      1.00        19
+
+   avg / total       1.00      1.00      1.00        19
+
+              precision    recall  f1-score   support
+
+%change<=0.0       0.00      0.00      0.00         5
+ %change>0.0       0.74      1.00      0.85        14
+
+ avg / total       0.54      0.74      0.63        19
+
+               precision    recall  f1-score   support
+
+%change<=0.01       0.68      1.00      0.81        13
+ %change>0.01       0.00      0.00      0.00         6
+
+  avg / total       0.47      0.68      0.56        19
+
+               precision    recall  f1-score   support
+
+%change<=0.02       0.95      1.00      0.97        18
+ %change>0.02       0.00      0.00      0.00         1
+
+  avg / total       0.90      0.95      0.92        19
+
+If you'd like to unsubscribe and stop receiving these emails click here: http://u1012876.sendgrid.org/wf/unsubscribe?upn=NWYNBWDDOzZTCL9ZZVwry1U-2FxDQViSYbuj0Qxh-2FUarBv-2FI6WtWdU-2Ff-2B8xRiMD76UASToUAPp-2B3HZv45aR3hiLs4vGNLWyWeVfIRvBHBngwxkigEW4pZwEsmbRDur1cg387eHtVX6fepm6xLJtUk93zJjKcasSLtcK5RZkmfAnwSp-2BaVo6h-2FCPUG3rJJtGurTTA6aaIKau9rgeCVNAIRG8Q-3D-3D.
